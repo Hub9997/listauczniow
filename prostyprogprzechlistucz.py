@@ -1,5 +1,4 @@
 data = []
-#data=[{'name':name,
 
 def add_student(data, name, surname):
     student = {
